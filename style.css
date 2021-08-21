@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&family=Pacifico&display=swap');
+
+:root {
+    --background-color: #3F3F46;
+    --color: #98FB98;
+}
+
+body {
+    background-color: black;
+    color: var(--color);
+    margin: 0px;
+    font-family: 'Exo', sans-serif;
+
+}
+
+div input {
+    display: block;
+}
+
+div {
+    max-width: 300px;
+    margin: auto;
+    padding: 3rem;
+}
+
+#select-birthdate {
+    padding: 1rem 3rem;
+    margin: 2rem;
+    font-size: 16px;
+
+}
+
+#lucky-number {
+    padding: 1rem 2rem;
+    margin: 2rem;
+    font-size: 16px;
+
+}
+
+
+div h1 {
+    margin: 1rem;
+    margin-top: 3rem;
+    text-align: center;
+
+}
+
+div label {
+    font-size: 12px;
+}
+
+button {
+    padding: 1rem 3rem;
+    margin: auto;
+    display: block;
+}
+
+div label{
+    font-size: larger;
+    text-align: center;
+}
+
+div p{
+    text-align: center;
+    font-size: larger;
+
+}
+
+
+
+
+
+
+
+
+
