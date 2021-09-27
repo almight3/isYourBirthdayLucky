@@ -79,6 +79,16 @@ img{
    margin: auto;
 }
 
+#alert{
+    border: 2px solid #98FB98;
+    padding: 1rem;
+    color: white;
+    max-width: 600px;
+    margin: 1rem auto;
+    font-size: larger;
+
+}
+
 
 
 
